@@ -1,2 +1,3 @@
 # syntaxiserror.github.io
-My machine learning portfolio
+
+### Machine Learning Portfolio v2.0
